@@ -1,2 +1,3 @@
 # someip
-someip通信をpythonで実施するためのツール
+someip通信をpythonで実施するためのツール  
+srcファイルと同名のexeファイルはsrcをそのままexe化したものになります
